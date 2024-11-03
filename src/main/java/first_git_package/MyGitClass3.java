@@ -1,10 +1,10 @@
 package first_git_package;
 
-public class MyGitClass {
+public class MyGitClass3 {
     public static void main(String[] args) {
 
-        System.out.println("Version1");
-
+        System.out.println("Version3");
+/*
 /*
 HOW WE CAN PUSH A GIT PROJECT TO GITHUB?- FOR THE FIRST TIME
 Notes:
